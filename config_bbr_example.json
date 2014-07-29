@@ -43,6 +43,7 @@
             },
 			{
                 "port": 1111,
+                "protocol": "http",
                 "difficulty": 1800000,
 				"protocol": "http",
                 "desc": "High end GPUs",
